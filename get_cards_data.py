@@ -52,7 +52,7 @@ def extract_zip_file(zip_file_name, destination):
     zip_ref.close()
 
 
-def download_widerface(train=True,data_dir=data_dir,
+def download_data(train=True,data_dir=data_dir,
             file_id_train=file_id_train,destination_train=destination_train,image_zip_file_train=image_zip_file_train):
 
     if train:
@@ -67,6 +67,6 @@ def download_widerface(train=True,data_dir=data_dir,
 if __name__ == "__main__":
     
 
-    download_widerface(train=True)
+    download_data(train=True)
 
     
