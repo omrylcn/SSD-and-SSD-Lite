@@ -3,7 +3,7 @@ import os
 import zipfile
 
 
-data_dir = 'data'
+data_dir = 'wider_data'
 if not os.path.exists(data_dir):
     os.mkdir(data_dir)
 
