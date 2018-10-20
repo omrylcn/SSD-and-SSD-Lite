@@ -12,7 +12,7 @@ annotation_zip_file="wider_face_split.zip"
 #Train data
 image_zip_file_train = 'WIDER_train.zip'
 file_id_train = '0B6eKvaijfFUDQUUwd21EckhUbWs'
-destination_train = 'data/WIDER_train.zip'
+destination_train = 'wider_data/WIDER_train.zip'
 
 #Val data
 image_zip_file_val = 'WIDER_val.zip'
