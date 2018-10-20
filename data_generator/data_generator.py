@@ -660,7 +660,7 @@ class DataGenerator:
             #########################################################################################
             # If we have a label encoder, encode our labels.
             #########################################################################################
-            print(batch_y)
+             #print(batch_y)
             self.batch_y=batch_y
             if not (label_encoder is None or self.labels is None):
 
