@@ -17,7 +17,7 @@ destination_train = 'data/WIDER_train.zip'
 #Val data
 image_zip_file_val = 'WIDER_val.zip'
 file_id_val = '0B6eKvaijfFUDd3dIRmpvSk8tLUk'
-destination_val = 'data/WIDER_val.zip'
+destination_val = 'wider_data/WIDER_val.zip'
 
 
 
